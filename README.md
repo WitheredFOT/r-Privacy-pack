@@ -2,6 +2,7 @@
   The (unofficial) Minecraft r/Privacy texture pack!
   
   **Private**: r/Privacy pack is designed to bring you your favorite privacy tools in Minecraft. Texture packs cannot sell your information, so your data remains in your hands.
+  
   **Open Source**: Licensed under [CC 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ## Recommended Software
@@ -13,8 +14,10 @@
 
 ## Contributing
   **Issue**: Let me know what's wrong. Be sure to list your version and mods!
+  
   **Pull Request**: Fork the repository and add what textures you have in mind.
 
 ## Acknowledgements
   **Bryhle** *(Pixel 9 Pro XL)*
+  
   **DanSavageGames** *(GrapheneOS on Pixel, Monero)*
